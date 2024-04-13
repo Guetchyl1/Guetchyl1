@@ -1,4 +1,4 @@
-### Hi there My name Guetchyl
+### Hi there My name is Guetchyl
 
 <!--
 **Guetchyl1/Guetchyl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
